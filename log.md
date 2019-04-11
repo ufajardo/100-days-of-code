@@ -1,30 +1,11 @@
 # 100 Days Of Code - Log
 
+**Introduction**: Before I started the 100DaysOfCode Challenge, I had started a Python Django project centered around building my own personal blog/website. This project will not only allow me to reteach any interesting concepts, but give me first hand experience with the Django framework.
+
 ### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Managed to make the Category Model and an addition to the "Post" Model in the Django practiceProject I have. The Post Model uses a ManytoManyField that allows multiple Categories to one post. There was also designs to the HTML/CSS for the blog details page -- looks pretty nice.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** As I progress with Django, I'm going to be needing more resources on how to approach the best practices for this framework. Hopefully, I'll be able to learn more about deployment and have it live.
 
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work:** Not yet... :c
