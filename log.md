@@ -2,7 +2,7 @@
 
 **Introduction**: Before I started the 100DaysOfCode Challenge, I had started a Python Django project centered around building my own personal blog/website. This project will not only allow me to reteach any interesting concepts, but give me first hand experience with the Django framework.
 
-### Day 0: February 30, 2016 (Example 1)
+### Day 0: April 10, 2019 
 
 **Today's Progress**: Managed to make the Category Model and an addition to the "Post" Model in the Django practiceProject I have. The Post Model uses a ManytoManyField that allows multiple Categories to one post. There was also designs to the HTML/CSS for the blog details page -- looks pretty nice.
 
