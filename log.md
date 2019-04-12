@@ -9,3 +9,11 @@
 **Thoughts:** As I progress with Django, I'm going to be needing more resources on how to approach the best practices for this framework. Hopefully, I'll be able to learn more about deployment and have it live.
 
 **Link to work:** Not yet... :c
+
+### Day 1: April 11, 2019 
+
+**Today's Progress**: Created an additional model "EmailList" that will allow users to submit a form consisting of their name and email to be added to a "subscription list". There was also some work done on being able to filter blog posts by category.
+
+**Thoughts:** Thank goodness for StackOverflow. I wouldn't have been able to make it through all the errors without them.
+
+**Link to work:** Not yet... :c
