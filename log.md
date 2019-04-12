@@ -14,6 +14,6 @@
 
 **Today's Progress**: Created an additional model "EmailList" that will allow users to submit a form consisting of their name and email to be added to a "subscription list". There was also some work done on being able to filter blog posts by category.
 
-**Thoughts:** Thank goodness for StackOverflow. I wouldn't have been able to make it through all the errors without them.
+**Thoughts:** Thank goodness for StackOverflow. I wouldn't have been able to make it through all the errors without them. Also, to better my challenge, I think maybe spending more time on OTHER people's projects would also prove pretty great, as well as submitting my own work.
 
 **Link to work:** Not yet... :c
