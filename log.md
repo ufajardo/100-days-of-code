@@ -17,3 +17,14 @@
 **Thoughts:** Thank goodness for StackOverflow. I wouldn't have been able to make it through all the errors without them. Also, to better my challenge, I think maybe spending more time on OTHER people's projects would also prove pretty great, as well as submitting my own work.
 
 **Link to work:** Not yet... :c
+
+### Day 2: April 12, 2019 
+
+**Today's Progress**: 
+>>Worked on the personal website some more - More CSS, making the blog and category pages look a lot more decent. This includes just general format and design of the tags. Made some corrections to the URLs and what pages take you where.
+
+>>Tested myself with what I've learned about 2 months ago -- created a new project and got a regular HTML page to display. 
+
+**Thoughts:** Testing myself took me longer than I thought, mostly because I forgot ONE line of code... declaring the app_name and having a namespace defined in the main URL file. This will serve as the beginning of an ACTUAL raw project -- a url shortener. This is to display my progress and test my abilities of what I've learned from other projects, and work on something that I've never done before. Should be simple... right?
+
+**Link to work:** https://github.com/ufajardo/urlshortener
