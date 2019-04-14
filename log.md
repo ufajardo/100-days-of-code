@@ -28,3 +28,21 @@
 **Thoughts:** Testing myself took me longer than I thought, mostly because I forgot ONE line of code... declaring the app_name and having a namespace defined in the main URL file. This will serve as the beginning of an ACTUAL raw project -- a url shortener. This is to display my progress and test my abilities of what I've learned from other projects, and work on something that I've never done before. Should be simple... right?
 
 **Link to work:** https://github.com/ufajardo/urlshortener
+
+
+### Day 3: April 13, 2019 
+
+**Today's Progress**: 
+
+Worked a lot on the URL Shortener I've been working on in Django. Managed to get a few things done.
+	- Created a function that will randomly generate a random set of characters for the new provided URL.
+	- Set up the Model and Form on the page.
+	- Set up the redirection view that will take in a value (from the url) and spit out the original_link.
+
+Tomorrow I'd like to work on the front end of it as well as possibly get deployment rolling.
+
+
+**Thoughts:** I feel a little bit insecure about my development skill set. I know there is plenty to learn and I believe I'm heading in the right direction. However, I feel that I need to rely heavily on resources such as the django documentation, or notes from my Python class. It's things that are simple but they aren't memorized material. I feel like this is both a weakness and a strength. I have resources and should be able to utilize them, no?
+
+
+**Link to work:** https://github.com/ufajardo/urlshortener
