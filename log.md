@@ -46,3 +46,20 @@ Tomorrow I'd like to work on the front end of it as well as possibly get deploym
 
 
 **Link to work:** https://github.com/ufajardo/urlshortener
+
+### Day 4: April 14, 2019 
+
+**Today's Progress**: 
+
+URL Shortener Part 2:
+
+- Made CSS for page. It looks pretty basic, but I don't typically challenge myself to draw up RAW CSS. I'm a big fan of Bootstrap. 
+
+- I made a change to the gen_link function. I don't want any collisions w/ URLs.
+
+
+
+**Thoughts:** I have intentions of deploying this app live, however, I don't think it's secured just yet.
+
+
+**Link to work:** https://github.com/ufajardo/urlshortener
