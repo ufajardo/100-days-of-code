@@ -63,3 +63,15 @@ URL Shortener Part 2:
 
 
 **Link to work:** https://github.com/ufajardo/urlshortener
+
+
+### Day 4: April 14, 2019 
+
+**Today's Progress**: 
+
+- Created a search function and search bar for the blog page. Took me a lot longer to figure out than it should have.
+
+**Thoughts:** I looked for many resources on this, and a lot of it was referring to old documents. I should be able to cover more ground tomorrow.
+
+
+**Link to work:** Nope :c
