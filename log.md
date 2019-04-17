@@ -65,13 +65,22 @@ URL Shortener Part 2:
 **Link to work:** https://github.com/ufajardo/urlshortener
 
 
-### Day 4: April 14, 2019 
+### Day 5: April 15, 2019 
 
 **Today's Progress**: 
 
 - Created a search function and search bar for the blog page. Took me a lot longer to figure out than it should have.
 
 **Thoughts:** I looked for many resources on this, and a lot of it was referring to old documents. I should be able to cover more ground tomorrow.
+
+
+**Link to work:** Nope :c
+
+### Day 6: April 16, 2019 
+
+**Today's Progress**: Working with django authentication on personal project.
+
+**Thoughts:** Seems pretty different from PHP authentication.
 
 
 **Link to work:** Nope :c
