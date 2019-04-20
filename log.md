@@ -84,3 +84,25 @@ URL Shortener Part 2:
 
 
 **Link to work:** Nope :c
+
+
+### Day 7, 8, 9: April 17, 18, 19  2019 
+
+**Today's Progress**:
+
+Over the last few days, I've spent some time working on basic challenges from a challenge I had saved for rainy days (like, now). The challenges were:
+
+ - Dice Rolling - Create a function that will allow you to roll a die and obtain a random number between 1 and 6 for each prompt.
+
+ - Guess The Number - Similar to the previous challenge, except it has the end-user guess for the number that's been generated. Based on the guess, it notifies the end-user if it's too high or low of a number.
+
+ - Hangman - I didn't get an image affiliated with it, but it's hangman, alright.
+
+ - Mad Libs -  Inspired by Summer Son’s Mad Libs project with Javascript, it allows me to manipulate user inputted data.
+
+
+
+**Thoughts:** These challenges did make me think, but it wasn't SUPER challenging. I'll have to find more deeper challenges!
+
+
+**Link to work:** https://github.com/ufajardo/python-challenges-beginner
