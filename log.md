@@ -106,3 +106,15 @@ Over the last few days, I've spent some time working on basic challenges from a 
 
 
 **Link to work:** https://github.com/ufajardo/python-challenges-beginner
+
+
+### Day 10: April 20,  2019 
+
+**Today's Progress**:
+
+Spent most of today working on material design improvements to the personal website.
+
+**Thoughts:** I'm really bad at material design.
+
+
+**Link to work:** None :c
