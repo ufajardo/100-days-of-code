@@ -118,3 +118,15 @@ Spent most of today working on material design improvements to the personal webs
 
 
 **Link to work:** None :c
+
+
+### Day 11: April 21,  2019 
+
+**Today's Progress**:
+
+Spent most of today working on material design improvements to the personal website, again, as well as took a shot at the authentication process for a website.
+
+**Thoughts:** I really don't know what the standard is for building an authentication system. I think I'll just have it embedded within an app rather than being it's own..
+
+
+**Link to work:** None :c
