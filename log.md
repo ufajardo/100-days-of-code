@@ -130,3 +130,13 @@ Spent most of today working on material design improvements to the personal webs
 
 
 **Link to work:** None :c
+
+
+### Day 12: April 22,  2019 
+
+**Today's Progress**:Running towards that midnight mark and I've got most of the "transition" to material design done. This also included consolidating CSS and static files as well as properly setting up a "base.html" extends template page and proper organization of django files.
+
+**Thoughts:** Running into basic problems...
+
+
+**Link to work:** None :c
