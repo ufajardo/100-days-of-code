@@ -140,3 +140,14 @@ Spent most of today working on material design improvements to the personal webs
 
 
 **Link to work:** None :c
+
+
+### Day 13: April 23,  2019 
+
+**Today's Progress**: Got it going!! Everything looks good so far. I'll have to dive into sessions and such, then Django Rest Framework, with APIs and such. All the pages have moved over to Material Design and a basic sign in option as well as the option 
+
+**Thoughts:** I'm going to get back onto my linux box and see if I can get that appropriately setup. Then, I'll have my own server up and running on it.
+
+
+**Link to work:** None :c
+
