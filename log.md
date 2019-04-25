@@ -151,3 +151,12 @@ Spent most of today working on material design improvements to the personal webs
 
 **Link to work:** None :c
 
+### Day 14: April 24,  2019 
+
+**Today's Progress**: Worked some more on the personal website, of course. Created a dynamic navigation bar and did some form clean up throughout the website. 
+
+**Thoughts:** It's been 15(?) days since I've started the challenge, and I haven't had much to SHOW for it, yet. I mean, the personal website will definitely be up. but I think I'll start focusing my challenge hours on other people's projects in the mean time!
+
+
+**Link to work:** None :c
+
