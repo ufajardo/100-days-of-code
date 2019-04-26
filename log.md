@@ -160,3 +160,11 @@ Spent most of today working on material design improvements to the personal webs
 
 **Link to work:** None :c
 
+### Day 15: April 25,  2019 
+
+**Today's Progress**: I'm still working on the personal website, but I've decided to work on other projects as I'm working on this. Something that I can present and place on github. Something that I can share with the community. This project start is the content_aggregator intermediate challenge that web scrapes content and consolidates it onto a single page. So far, I've created the initial project and set up models. 
+
+**Thoughts:** Setting it up an entirely new project will solidify my knowledge on building and intializing the beginning portion of websites/git repos. There's a few things I'd like to do for the personal website -- such as applying a twitter API. This will give me some more information on pulling data from a website and using that data.
+
+
+**Link to work:** https://github.com/ufajardo/content_aggregator
