@@ -168,3 +168,14 @@ Spent most of today working on material design improvements to the personal webs
 
 
 **Link to work:** https://github.com/ufajardo/content_aggregator
+
+
+### Day 16: April 26,  2019 
+
+**Today's Progress**: Working on getting a background-process running for apscheduler to run functions on an interval of 5 minutes.
+
+**Thoughts:** None at this time.
+
+
+**Link to work:** https://github.com/ufajardo/content_aggregator
+
