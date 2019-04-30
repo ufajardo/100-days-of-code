@@ -179,3 +179,13 @@ Spent most of today working on material design improvements to the personal webs
 
 **Link to work:** https://github.com/ufajardo/content_aggregator
 
+
+### Day 17: April 29,  2019 
+
+**Today's Progress**: APScheduler is up and running! I've also done some research and studying for BeautifulSoup4 and hopefully will be able to get this on the roll. The reason why it was taking so long for Apscheduler is because since I had made changes and technically have a "customer config" file in one of the apps, I needed to refer to that config file, and not the app name itself. As soon as I got that rolling, it sparked up and started rolling.
+
+**Thoughts:** I might have to explore a more dynamic and responsive website in the future. This will have to do with Django Rest Framework, I believe. It will definitely have to work deeper into server side operations -- right now, I have been working from within the app.
+
+
+**Link to work:** https://github.com/ufajardo/content_aggregator
+
