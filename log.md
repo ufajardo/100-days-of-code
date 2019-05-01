@@ -189,3 +189,15 @@ Spent most of today working on material design improvements to the personal webs
 
 **Link to work:** https://github.com/ufajardo/content_aggregator
 
+
+
+### Day 18: April 30,  2019 
+
+**Today's Progress**: Worked and got BeautifulSoup working -- currently set up as a function that is running on an interval being managed in the background with APSecheduler. And of course, made some adjustments to the models because my approach to how the information would be stored changed with how I was obtaining the information. Grabbing information from CNN was successful, such as titles of new articles and hrefs that belong to those articles -- however, Fox and Reuters is returning forbidden when trying to parse their website. :c I can either go around it or just find another website that'll be friendly to my challenge needs.
+
+
+**Thoughts:** I have explored a bit about APIs - and that's probably where I'll start exploring for pulling additional information to the aggregator.
+
+
+**Link to work:** https://github.com/ufajardo/content_aggregator
+
