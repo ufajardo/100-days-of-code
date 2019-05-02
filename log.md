@@ -201,3 +201,25 @@ Spent most of today working on material design improvements to the personal webs
 
 **Link to work:** https://github.com/ufajardo/content_aggregator
 
+
+### Day 19: May 1, 2019 
+
+**Today's Progress**: Ran into a wall and spent the better part of my time trying to resolve error codes coming up from my code. I've also noticed delay for the background scheduler for pulling information. No solution has been found. :c
+
+
+**Thoughts:** I need to look into better approaches for debugging background services...
+
+
+**Link to work:** https://github.com/ufajardo/content_aggregator
+
+
+### Day 20: May 2, 2019 
+
+**Today's Progress**: Drew up some CSS for the site so the content is prettier. Also got the second function running appropriately, so it's pulling data from Reuters and CNN - need to get the third one going as well as a function that cleans up the database before new things are added. 
+
+
+**Thoughts:** Honestly, the fastest way to do this would be to just delete everything in the database before all the data comes in... 
+
+
+**Link to work:** https://github.com/ufajardo/content_aggregator
+
