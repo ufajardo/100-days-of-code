@@ -223,3 +223,37 @@ Spent most of today working on material design improvements to the personal webs
 
 **Link to work:** https://github.com/ufajardo/content_aggregator
 
+
+### Day 21: May 3, 2019 
+
+**Today's Progress**: Finished up the remaining tid bits for content_aggregator. The CSS is basic, but the point of the project was to be able to pull information from multiple websites to a single page. There are somethings that I could add that could be potential features, but for now, it serves it's purpose. One of the things I have also done was created a single function that'll go through each of the websites in the DB and pull information, rather than have a function per website. I'm pretty proud of it.
+
+
+**Thoughts:** Features that could be added are like "saving links" for future use. Having a boolean addition to the model for instance, that won't be deleted and placed on another section of the page.
+
+
+**Link to work:** https://github.com/ufajardo/content_aggregator
+
+
+### Day 22: May 4, 2019 
+
+**Today's Progress**: Continued working on my personal website. Working with some of the error messages for already posted comments on the blog portion and for like error logins. 
+
+
+**Thoughts:** I will be starting a new project soon. It's kind of redundant to have, however, it will be more practice with automated jobs, database entry edits, and automatic emails.
+
+
+**Link to work:** None :c
+
+
+
+### Day 23: May 7, 2019 
+
+**Today's Progress**: Personal website is coming along pretty nicely, set up the dashboard and did some if/else statements for the navigation bar providing more options if a user is logged in or not. 
+
+
+**Thoughts:** I want to prepare blog content at least a month ahead - just in case I get lazy. 
+
+
+**Link to work:** None :c
+
