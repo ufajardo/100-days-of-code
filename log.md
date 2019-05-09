@@ -257,3 +257,14 @@ Spent most of today working on material design improvements to the personal webs
 
 **Link to work:** None :c
 
+
+### Day 24: May 8, 2019 
+
+**Today's Progress**: Kicked off a new project for today - the projects name is "remind_me". It's a project that could be used to help keep track of employee's gaming licenses and when they expire. I'll be using the django framework for a general interface. This project is a good enough reason for me to explore working with emails and apscheduler as background processes for Django. I've set up most of the project and only need to write the two primary functions that I'll be using -- a function kicked off by a cronjob from apscheduler to check for expiration dates and another function to send emails.
+
+
+**Thoughts:** The datetime() will be pretty interesting to work with, considering there's quite a few ways you could have it displayed. There also seems to be a send_mail() function built into the django libraries that will make life easier.
+
+
+**Link to work:** https://github.com/ufajardo/remind_me
+
