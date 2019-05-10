@@ -268,3 +268,16 @@ Spent most of today working on material design improvements to the personal webs
 
 **Link to work:** https://github.com/ufajardo/remind_me
 
+
+
+### Day 25: May 9, 2019 
+
+**Today's Progress**: Pretty close to finishing "remind_me" -- I had learned that I would need to set up a SMTP server to get everything 100% up and running, which is kind of unfortunate. Worked a lot of the Datetime library with Django python and I'm feeling pretty confident.
+
+Side Note - Got my linux server available to be connected to externally. I didn't realize how easy it was. I should have got this done long ago!
+
+
+**Thoughts:** I'll need to look into more available resources.
+
+
+**Link to work:** https://github.com/ufajardo/remind_me
