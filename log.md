@@ -281,3 +281,15 @@ Side Note - Got my linux server available to be connected to externally. I didn'
 
 
 **Link to work:** https://github.com/ufajardo/remind_me
+
+
+
+### Day 26: May 10, 2019 
+
+**Today's Progress**: Brought together a good looking dashboard for the "behind the scenes" for the personal website, as well as made some additions to the home page. 
+
+
+**Thoughts:** There are quite a few items on my project list that will keep me from being bored, however, I need to start looking up projects that I can contribute to and assist in maintenance. I think being able to work with OTHER people's code and read what they've done will help me develop as a student.
+
+
+**Link to work:** None :c
