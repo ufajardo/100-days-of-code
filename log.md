@@ -293,3 +293,26 @@ Side Note - Got my linux server available to be connected to externally. I didn'
 
 
 **Link to work:** None :c
+
+
+
+### Day 27: May 11, 2019 
+
+**Today's Progress**: Got a new project rolling for a "task manager" sort of feature for my dashboard on my personal site. This will have a variety of project and tasks afiliated with that project plotted on a Gantt graph with status of each. I'm sure it's not entirely necessary, but it'll pave way to a possible product to sell in the future. Created models and initialized the project so far. Also dide some work on the personal website - the dashboard wasn't coming out as I'd like it to.
+
+
+**Thoughts:** I did some reading today and came across another python framework... Tornado. It's pretty fascinating because it has a asynchronous networking as one of it's primary features. This would go great with the battmedic project I worked on months ago. If I decide to recreate that project, this is exactly how I would do it.
+
+**Link to work:** https://github.com/ufajardo/sproject-manager
+
+
+
+### Day 28: May 12, 2019 
+
+**Today's Progress**: Went around my personal website and did some cleaning up -- adding some Javascript for modals and hiding the comments. Just a few cosmetic features.
+
+
+**Thoughts:** I have yet to actually get any progress on actually HOSTING the personal website. Mostly because I'm intimidated about the relationship between background processes and applications. When I get more involved with Tornado, I'll be able to really dive deep into it.
+
+
+**Link to work:** None :c
