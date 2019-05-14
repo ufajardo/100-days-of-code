@@ -316,3 +316,15 @@ Side Note - Got my linux server available to be connected to externally. I didn'
 
 
 **Link to work:** None :c
+
+
+
+### Day 29: May 12, 2019 
+
+**Today's Progress**: Made some adjustments to the project and the direction it's going. It's just going to be for a single person rather than group or a team.
+
+
+**Thoughts:** From the looks of things, there's not reason to have a graph or anything of the sort displayed on the page.
+
+
+**Link to work:** https://github.com/ufajardo/sproject-manager
