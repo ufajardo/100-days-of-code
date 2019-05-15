@@ -319,12 +319,24 @@ Side Note - Got my linux server available to be connected to externally. I didn'
 
 
 
-### Day 29: May 12, 2019 
+### Day 29: May 13, 2019 
 
 **Today's Progress**: Made some adjustments to the project and the direction it's going. It's just going to be for a single person rather than group or a team.
 
 
 **Thoughts:** From the looks of things, there's not reason to have a graph or anything of the sort displayed on the page.
+
+
+**Link to work:** https://github.com/ufajardo/sproject-manager
+
+
+
+### Day 30: May 14, 2019 
+
+**Today's Progress**: I can't seem to get a function working on the "sproject-manager" project. This should be a fairly easy approach -- using POST to do something along the lines of object.filter(pk=pk).delete(), however, I'm successfully using POST incorrectly and all the resources online are pointing to a "get" approach. There are available generic.views that can perform this action, but I almost feel like it's cheating if I don't go the long way.
+
+
+**Thoughts:** In the future, I plan on using the generic.views for easier actions. I'm just surprised I'm having such difficulty with this.
 
 
 **Link to work:** https://github.com/ufajardo/sproject-manager
