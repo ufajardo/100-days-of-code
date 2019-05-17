@@ -340,3 +340,29 @@ Side Note - Got my linux server available to be connected to externally. I didn'
 
 
 **Link to work:** https://github.com/ufajardo/sproject-manager
+
+
+
+### Day 31: May 15, 2019 
+
+**Today's Progress**: Still working on the CRUD part of the application. I really didn't think about how tough it would be to work with.
+
+
+**Thoughts:** YOU DO USE POST. :)
+
+
+
+**Link to work:** https://github.com/ufajardo/sproject-manager
+
+
+
+### Day 32: May 16, 2019 
+
+**Today's Progress**: I got the CRUD FINALLY WORKING. It's very primitive at the moment, I'd like a much more dynamic display and menu to manage it, but it's working! I have forms loading properly as well. The mistake I was making was an improper approach to forms... this is definitely something I had learned before but now I've learned my lesson -- I forgot to have the forms get passed from the views to the template. 
+
+
+**Thoughts:** I should be able to get this done by Saturday. (18th)
+
+
+
+**Link to work:** https://github.com/ufajardo/sproject-manager
