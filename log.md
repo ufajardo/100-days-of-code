@@ -379,3 +379,17 @@ Side Note - Got my linux server available to be connected to externally. I didn'
 
 
 **Link to work:** https://github.com/ufajardo/sproject-manager
+
+
+
+### Day 34: May 18, 2019 
+
+**Today's Progress**: Cleaned up some of the CSS and got the statuses to prompt for start and end times for the tasks provided. For example, once the task is active, it punches the beginning time. Once it has CLOSED, it takes the ending time. With these provided times, I will be able to graph them out and get a general statistics going for active project. This will give me an opportunity to play with graphs! I think the primary chart used will be a gantt chart.
+
+
+
+**Thoughts:** Other charts could be implemented, but I'll think about it further down the line.
+
+
+
+**Link to work:** https://github.com/ufajardo/sproject-manager
