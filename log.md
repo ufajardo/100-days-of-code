@@ -366,3 +366,16 @@ Side Note - Got my linux server available to be connected to externally. I didn'
 
 
 **Link to work:** https://github.com/ufajardo/sproject-manager
+
+
+
+### Day 33: May 17, 2019 
+
+**Today's Progress**: It turns out a missed a few things when creating the CRUD from yesterday - got them up and running!
+
+
+**Thoughts:** I think I'll jump right into the Tornado project after this -- I want to refresh my knowledge of networking and backend logic.
+
+
+
+**Link to work:** https://github.com/ufajardo/sproject-manager
